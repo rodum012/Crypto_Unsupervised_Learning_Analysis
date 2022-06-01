@@ -46,10 +46,15 @@ jupyter lab
 
 Once in jupyter lab, open the crypto_investments.ipynb file and run each cell in the jupyter file to see the resulting anlysis.
 
-Below is an example of the resulting outputs of a cell being run in the jupyter notebook:
+Below are the outputs of the plots that were made using hvplot:
 
-![output](Images/Output_ex.png)
-
+![output_1](Images/Output_1.png)
+![output_2](Images/Output_2.png)
+![output_3](Images/Output_3.png)
+![output_4](Images/Output_4.png)
+![output_5](Images/Output_5.png)
+![output_6](Images/Output_6.png)
+![output_7](Images/Output_7.png)
 
 ---
 
